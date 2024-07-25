@@ -3,4 +3,4 @@ numpy
 scikit-learn
 
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.6.0+cpu
+torch==2.2.0
